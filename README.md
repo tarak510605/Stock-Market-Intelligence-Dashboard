@@ -95,30 +95,7 @@ cd ../dashboard
 
 **Data**: yfinance, pandas, NumPy  
 **Analysis**: SciPy, Jupyter Notebook  
-**Visualization**: matplotlib, seaborn, Tableau  
+**Visualization**: Tableau  
 **Environment**: Python 3.8+
 
----
 
-## ⚠️ Disclaimer
-
-This is an **educational project** for demonstrating data analytics capabilities. Analysis and signals should NOT be used as the sole basis for investment decisions. Always conduct your own research and consult financial advisors before investing.
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details.
-
----
-
-## 👤 Author
-
-**Data Analyst Portfolio Project**  
-March 2026
-
----
-
-**Built with** ❤️ **for financial analytics and data science**
-
-Last Updated: March 2026
